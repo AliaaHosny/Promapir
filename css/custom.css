@@ -1,1 +1,30 @@
-/* Add here all your CSS customizations */
+
+.Social_buttons{
+    margin-top: 1em;
+    text-align: center;
+}
+.Social_buttons b{
+    padding: 10px;
+}
+.Social_buttons button{
+    margin-top: 1em;
+    padding: 9px;
+    color: #fff;
+    border: none;
+}
+.Social_buttons button i{
+    font-size: 19px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 1px solid #eee;
+}
+.Social_buttons button span{
+    padding-left: 16px;
+    padding-right: 15px;
+}
+.Social_buttons .facebook{
+    background: #3D5997;
+}
+.Social_buttons .google{
+    background: #DB4F43;
+}
