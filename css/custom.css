@@ -28,3 +28,42 @@
 .Social_buttons .google{
     background: #DB4F43;
 }
+/*  */
+.cbp-filter-item {
+    border: 2px solid #e6e6e6;
+    padding: 3px 14px;
+    float: left;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.35s;
+    margin: 4px;
+}
+.cbp-filter-item-active{
+    border: 2px solid #1F8EE2;
+
+}
+.Title_filter{
+        text-align: center;
+        margin-top: 65px;
+        padding-bottom: 100px;    
+}
+.icons{
+    height: 24px;
+    margin-right: 10px;
+}
+.icon_title{
+    width: 22px !important;
+    height: 15px !important;
+    display: inline-block !important;
+}
+.product-container{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.Filter_background{
+    background-color: #f8f3f2;
+}
+.description_body{
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+
+}
